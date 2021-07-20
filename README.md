@@ -1,4 +1,4 @@
-# rails-nuxt-todo-front
+# rails-nuxt-todo-api
 
 # 環境構築
 
