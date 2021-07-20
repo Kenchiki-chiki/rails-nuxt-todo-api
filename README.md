@@ -20,3 +20,8 @@ $ rails s -p 8080
 ## アクセス
 
 http://localhost:8080
+
+## 環境
+
+- Ruby 2.6.6
+- Rails API 6.0.3.4
