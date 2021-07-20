@@ -1,24 +1,22 @@
-# README
+# rails-nuxt-todo-front
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 環境構築
 
-Things you may want to cover:
+## DBの設定
 
-* Ruby version
+```
+$ rails db:create
+$ rails db:migrate
+```
 
-* System dependencies
+## 起動
 
-* Configuration
+```
+$ rails s -p 8080
+```
 
-* Database creation
+※RubyとRails、bundler2系がインストールされていない場合には、インストールが必要になります。
 
-* Database initialization
+## アクセス
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+http://localhost:8080
