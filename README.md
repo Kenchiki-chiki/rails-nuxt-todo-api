@@ -1,12 +1,11 @@
 # rails-nuxt-todo-front
 
+# 環境構築
+
 ## 環境
 
 - Ruby 2.6.6
 - Rails API 6.0.3.4
-
-
-# 環境構築
 
 ## DBの設定
 
