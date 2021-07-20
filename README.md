@@ -20,7 +20,7 @@ $ rails db:migrate
 $ rails s -p 8080
 ```
 
-※RubyとRails、bundler2系がインストールされていない場合には、そちらもインストールが必要になります。
+※RubyとRails、bundler2系がインストールされていない場合には、そちらもインストールをお願いします。
 
 ## アクセス
 
